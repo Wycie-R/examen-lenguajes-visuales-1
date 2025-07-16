@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|c:\\users\\pc02\\source\\repos\\examenapp\\examenapp\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|solutionrelative:examenapp\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|c:\\users\\pc02\\source\\repos\\examenapp\\examenapp\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|solutionrelative:examenapp\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|c:\\users\\pc02\\source\\repos\\examenapp\\examenapp\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|solutionrelative:examenapp\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|c:\\users\\pc02\\source\\repos\\examenapp\\examenapp\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|solutionrelative:examenapp\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|c:\\users\\pc02\\source\\repos\\examenapp\\examenapp\\views\\categorydialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|solutionrelative:examenapp\\views\\categorydialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|c:\\users\\pc02\\source\\repos\\examenapp\\examenapp\\views\\productdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|solutionrelative:examenapp\\views\\productdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|c:\\users\\pc02\\source\\repos\\examenapp\\examenapp\\views\\categorydialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|solutionrelative:examenapp\\views\\categorydialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|c:\\users\\pc02\\source\\repos\\examenapp\\examenapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|solutionrelative:examenapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|c:\\users\\pc02\\source\\repos\\examenapp\\examenapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|solutionrelative:examenapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|c:\\users\\pc02\\source\\repos\\examenapp\\examenapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|solutionrelative:examenapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|c:\\users\\pc02\\source\\repos\\examenapp\\examenapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|solutionrelative:examenapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|c:\\users\\pc02\\source\\repos\\examenapp\\examenapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|solutionrelative:examenapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|c:\\users\\pc02\\source\\repos\\examenapp\\examenapp\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|solutionrelative:examenapp\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|c:\\users\\pc02\\source\\repos\\examenapp\\examenapp\\examenapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|solutionrelative:examenapp\\examenapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|c:\\users\\pc02\\source\\repos\\examenapp\\examenapp\\views\\loginwindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|solutionrelative:examenapp\\views\\loginwindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|c:\\users\\pc02\\source\\repos\\examenapp\\examenapp\\views\\mainwindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|solutionrelative:examenapp\\views\\mainwindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|c:\\users\\pc02\\source\\repos\\examenapp\\examenapp\\views\\categorydialog.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|solutionrelative:examenapp\\views\\categorydialog.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|c:\\users\\pc02\\source\\repos\\examenapp\\examenapp\\views\\productdialog.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E86874A1-BAD0-4EE7-AA02-EF16FF097140}|ExamenApp\\ExamenApp.csproj|solutionrelative:examenapp\\views\\productdialog.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Views\\CategoryDialog.xaml",
+              "RelativeDocumentMoniker": "ExamenApp\\Views\\CategoryDialog.xaml",
+              "ToolTip": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Views\\CategoryDialog.xaml",
+              "RelativeToolTip": "ExamenApp\\Views\\CategoryDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-16T00:06:43.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ExamenApp\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "ExamenApp\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T00:04:41.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "ExamenApp\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "ExamenApp\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-16T00:04:38.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ExamenApp\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ExamenApp\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T23:18:59.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ExamenApp\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "ExamenApp\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-16T00:06:36.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Views\\ProductDialog.xaml.cs",
+              "RelativeDocumentMoniker": "ExamenApp\\Views\\ProductDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Views\\ProductDialog.xaml.cs",
+              "RelativeToolTip": "ExamenApp\\Views\\ProductDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T23:17:27.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Views\\CategoryDialog.xaml.cs",
+              "RelativeDocumentMoniker": "ExamenApp\\Views\\CategoryDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Views\\CategoryDialog.xaml.cs",
+              "RelativeToolTip": "ExamenApp\\Views\\CategoryDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T23:17:54.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ExamenApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Models\\User.cs",
+              "RelativeToolTip": "ExamenApp\\Models\\User.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwCIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T23:38:12.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ExamenApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\App.xaml.cs",
+              "RelativeToolTip": "ExamenApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T23:42:31.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ExamenApp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ExamenApp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T23:49:43.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ExamenApp\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ExamenApp\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T23:43:15.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "ExamenApp\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "ExamenApp\\Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T23:37:37.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExamenApp.csproj",
+              "DocumentMoniker": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\ExamenApp.csproj",
+              "RelativeDocumentMoniker": "ExamenApp\\ExamenApp.csproj",
+              "ToolTip": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\ExamenApp.csproj",
+              "RelativeToolTip": "ExamenApp\\ExamenApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-15T23:20:25.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ExamenApp\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ExamenApp\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAADwv1wAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T23:18:32.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ExamenApp\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "ExamenApp\\Views\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-15T23:18:14.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "ExamenApp\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "ExamenApp\\Views\\LoginWindow.xaml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-15T23:18:09.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Views\\CategoryDialog.xaml",
+              "RelativeDocumentMoniker": "ExamenApp\\Views\\CategoryDialog.xaml",
+              "ToolTip": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Views\\CategoryDialog.xaml",
+              "RelativeToolTip": "ExamenApp\\Views\\CategoryDialog.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-15T23:17:42.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Views\\ProductDialog.xaml",
+              "RelativeDocumentMoniker": "ExamenApp\\Views\\ProductDialog.xaml",
+              "ToolTip": "C:\\Users\\PC02\\source\\repos\\ExamenApp\\ExamenApp\\Views\\ProductDialog.xaml",
+              "RelativeToolTip": "ExamenApp\\Views\\ProductDialog.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-15T23:16:59.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

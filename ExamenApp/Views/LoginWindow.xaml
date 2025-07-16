@@ -1,0 +1,31 @@
+<Window x:Class="ExamenApp.Views.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Login" Height="300" Width="400" WindowStartupLocation="CenterScreen">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="Sistema de Gestion" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center"/>
+
+        <TextBlock Grid.Row="2" Text="Usuario:"/>
+        <TextBox Grid.Row="3" Text="{Binding Username}" Height="25" Margin="0,5"/>
+
+        <TextBlock Grid.Row="5" Text="Contraseña:"/>
+        <PasswordBox Grid.Row="6" Name="PasswordBox" Height="25" Margin="0,5"/>
+
+        <StackPanel Grid.Row="8" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Content="Ingresar" Command="{Binding LoginCommand}" Width="80" Height="30" Margin="5"/>
+            <Button Content="Registrar" Command="{Binding RegisterCommand}" Width="80" Height="30" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>
